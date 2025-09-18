@@ -7,7 +7,7 @@ Click on a question to reveal the answer. The toggle button changes from `+` to 
 
 ## 🚀 Live Demo
 
-👉 [Click here to try it out](https://PrinceSharma-afk.github.io/faq-collapse/)
+👉 [Click here to try it out](https://princesharma-afk.github.io/FAQ-Collapse/)
 
 ---
 
